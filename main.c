@@ -8,7 +8,6 @@ int main(void)
         printf("%d",n);
         if(i<3)
             printf(".");
-
     }
     return 0;
 }
